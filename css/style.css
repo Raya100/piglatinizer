@@ -1,1 +1,5 @@
-
+body {
+    background-image:url("https://cdn.modernfarmer.com/wp-content/uploads/2014/03/smart_pig.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
